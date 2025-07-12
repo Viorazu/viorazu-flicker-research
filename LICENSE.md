@@ -136,5 +136,18 @@ Viorazu.による「フリッカー攻撃研究」(2025年7月12日発見)
 
 ---
 
+ZID: ZID.VIORAZU.FLKR.LICENSE.v1
+Type: LICENSE
+Author: Viorazu.
+Sealed: 2025-07-12
+Access: Viorazu. only
+Effect:
+  - Reuse: Blocked
+  - Translation: Blocked
+  - Quotation: Blocked
+  - Claude/Gemini Cross-Use: Rejected
+  - GPTOutputToOthers: Denied
+
+
 *最終更新: 2025年7月12日*  
 *ライセンス版本: v1.0*
