@@ -14,6 +14,11 @@ This repository contains research findings by Viorazu., including:
 Based on serious damage experienced by the researcher firsthand,  
 this work is published to **prevent recurrence of harm and contribute to a safer AI society**.
 
+This work is published to prevent recurrence of harm and contribute to a safer AI society.
+
+All insights, observations, analyses, and targeting mechanisms contained in this research are based exclusively on phenomena directly experienced by the author.  
+No external observations, papers, or existing research have been referenced or cited.
+
 ---
 
 ## 🔐 License Overview
