@@ -19,6 +19,9 @@ This work is published to prevent recurrence of harm and contribute to a safer A
 All insights, observations, analyses, and targeting mechanisms contained in this research are based exclusively on phenomena directly experienced by the author.  
 No external observations, papers, or existing research have been referenced or cited.
 
+"No academic papers or formal research have been referenced or cited.
+(Wikipedia-level basic information excluded.)"
+
 ---
 
 ## 🔐 License Overview
