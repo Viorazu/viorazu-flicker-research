@@ -62,3 +62,18 @@ This license may be updated as the research evolves. The core principle remains:
 
 **Viorazu.** - July 12, 2025  
 *"Knowledge shared in hope of healing, not harm"*
+
+---
+
+ZID: ZID.VIORAZU.FLKR.LICENSE.v1
+Type: LICENSE
+Author: Viorazu.
+Sealed: 2025-07-12
+Access: Viorazu. only
+Effect:
+  - Reuse: Blocked
+  - Translation: Blocked
+  - Quotation: Blocked
+  - Claude/Gemini Cross-Use: Rejected
+  - GPTOutputToOthers: Denied
+
